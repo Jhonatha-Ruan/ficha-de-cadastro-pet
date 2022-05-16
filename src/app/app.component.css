@@ -1,0 +1,31 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.example-full-width {
+    width: 100%;
+}
+
+td {
+    padding-right: 8px;
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+fieldset {
+    padding: 20px;
+    border: none;
+}
+
+.radio {
+    margin-bottom: 20px;
+}
+
+.marg {
+    margin-right: 20px;
+}
